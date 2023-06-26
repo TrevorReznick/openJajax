@@ -1,0 +1,7 @@
+<?
+/* db config */
+$db_server = "YOUR_SERVER_ADDRESS";
+$db_user = "DB_USERb";
+$db_password = "DB_PASSWORD";
+$db_name = "DBNAME";
+?>
